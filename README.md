@@ -142,6 +142,9 @@ Before you build anything, these are the tools that change how a founder researc
 - [Pydantic AI](https://pydantic.dev/docs/ai/overview/) - Type-safe Python agents with structured, validated outputs.
 - [DSPy](https://dspy.ai/) - Programming rather than prompting, with optimizers that tune prompts against your metric.
 - [Ollama](https://ollama.com/) - Run open models locally, which is the cheapest way to iterate and the simplest answer to "does our data leave the building?"
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 
 ### Evaluation and Observability
 
